@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 oak and pine
 hello
+=======
+>>>>>>> parent of bc86690 (add oak and pine)
