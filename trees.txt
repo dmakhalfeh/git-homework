@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+oak and pine
+hello
+=======
+>>>>>>> parent of bc86690 (add oak and pine)
+=======
+>>>>>>> parent of bc86690 (add oak and pine)
 oak and pine
